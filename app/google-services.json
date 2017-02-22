@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "227070545374",
+    "firebase_url": "https://simpletalk-d2265.firebaseio.com",
+    "project_id": "simpletalk-d2265",
+    "storage_bucket": "simpletalk-d2265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227070545374:android:d4714d2237f50093",
+        "android_client_info": {
+          "package_name": "com.dashwood.simpletalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227070545374-d4hhke1uu2ethc4l17lh24nmnih06ue0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dashwood.simpletalk",
+            "certificate_hash": "12ac6d888f51fcb3e0661a27da0fabd35669db36"
+          }
+        },
+        {
+          "client_id": "227070545374-osqcnlm7d1hn8a5vmoh0s22ii1b021j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKRu5gmJU9-QduKVWiqevFGa4H4eZu1G8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227070545374-osqcnlm7d1hn8a5vmoh0s22ii1b021j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
